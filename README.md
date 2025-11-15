@@ -13,3 +13,8 @@ Here, we propose RoMCA, a cell type annotation algorithm based on non-negative l
 | :-------: | :------: | :-------: |
 |   H1    |  85.1%   | 80.3%  | 
 |  H2   |  93.2%   | 90.7% | 
+
+
+Below is the confusion matrix of RoMCA's cell type annotation results on the H2 sample:
+
+<img width="565" height="426" alt="plot" src="https://github.com/user-attachments/assets/344bd849-0d69-4304-8ec3-b98a2e8642a6" />
